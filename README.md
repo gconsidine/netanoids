@@ -12,4 +12,4 @@ Species 0 also has **thoughts**, which will be retrieved at random intervals and
 
 Finally, Species 0 will attempt to **respond** to user input by searching for keywords and retrieving information from a variety of sources.
 
-This application will rely heavily on an API being developed in parallel over at [greg-considine.com](https://github.com/gconsidine/greg-considine), utilizing Laravel's routing system for clean GET requests.
+This application will rely heavily on an API being developed in parallel over at [netanoids.greg-considine.com](https://github.com/gconsidine/netanoids-api), utilizing Laravel's routing system for clean GET requests.
